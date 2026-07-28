@@ -1,4 +1,17 @@
-# Readers Are Listening  
+---
+layout: page
+title: Readers Are Listening
+last_name: Sayers
+first_name: Jentery
+email: jentery@uvic.ca
+institution: Victoria, U. of
+title_of_doc: Readers Are Listening
+file_name: index.md
+original_doc_type: Syllabus
+primary_discipline: Literary Studies
+url: .nan
+
+---
 
 An online graduate seminar          
 English 506 + CSPT 500/600   

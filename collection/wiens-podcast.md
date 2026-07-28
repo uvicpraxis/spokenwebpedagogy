@@ -5,7 +5,7 @@ last_name: Wiens
 first_name: Jason
 email: jlwiens@ucalgary.ca
 institution: 'Calgary, U. of '
-title_of_doc: Podcast Assignment
+title_of_doc: Podcast
 file_name: 509 W22 Podcast assignment.docx
 original_doc_type: Prompt
 primary_discipline: Literary Studies

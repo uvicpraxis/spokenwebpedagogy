@@ -61,6 +61,11 @@ Note that these materials appear as they were originally written for teaching an
       <a href="camlot-avant-garde.html">Questions for Avant-Garde Noise and Sound</a>
       <br />notes by Jason Camlot via Douglas Kahn — Concordia University
     </li>
+       <li>
+      <a href="camlot-podcast.html">Shortform Podcast</a>
+      <br />assignment by Jason Camlot — Concordia University
+    </li>
+    <li>
     <li>
       <a href="wiens-transcription.html">Transcription</a>
       <br />excercise by Jason Wiens — University of Calgary

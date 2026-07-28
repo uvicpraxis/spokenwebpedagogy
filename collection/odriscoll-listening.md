@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Ethical Listening
-permalink: /output_documents/Syllabus_ENGL_569_Ethical_Listening(1)(1)(1).html
 last_name: O'Driscoll
 first_name: Mike
 email: mo@ualberta.ca

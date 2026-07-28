@@ -129,14 +129,14 @@ Please see our eClass site for full details.
 
 Components of Course Grade:
 
-  Participation                   10%         Ongoing
-  Guided Listening Practice       10%         To Be Scheduled
-  Soundbite                       20%         February 12
-  AVAnnotate Workshop             5%          February 26
-  AVAnnotate Case Study           10%         March 12
-  AVAnnotate Project Completion   20%         March 26
-  AVAnnotate Reflective Essay     20%         April 7
-  AVAnnotate Exit Survey          5%          April 9
+  Participation                   10%         Ongoing    
+  Guided Listening Practice       10%         To Be Scheduled     
+  Soundbite                       20%         February 12      
+  AVAnnotate Workshop             5%          February 26     
+  AVAnnotate Case Study           10%         March 12     
+  AVAnnotate Project Completion   20%         March 26     
+  AVAnnotate Reflective Essay     20%         April 7     
+  AVAnnotate Exit Survey          5%          April 9    
 
 ## Participation:
 

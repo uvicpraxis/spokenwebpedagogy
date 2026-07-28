@@ -15,8 +15,8 @@ The script also generates associated [YAML](https://yaml.org/) metadata files fr
 
 The collection is designed to be published to a [Jekyll](https://github.com/jekyll)-based web instance. It uses the [Minima](https://github.com/jekyll/minima) theme. 
 
+Project lead: Jentery Sayers (UVic)    
 Project developer: Callum Carroll-Ireton (UVic)    
-Project editor: Jentery Sayers (UVic)    
 Project communications: Joel Wheeler (UVic)  
 Project host and maintenance: Praxis Studio (UVic)   
 SpokenWeb director and PI: Jason Camlot (Concordia)   

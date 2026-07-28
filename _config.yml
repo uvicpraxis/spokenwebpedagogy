@@ -4,7 +4,13 @@ description:
 baseurl: "/spokenwebpedagogy"
 url: "https://uvicpraxis.github.io"
 header_pages:
-  - collection.markdown
+  - list_of_documents.markdown
+
+collections:
+  output_documents:
+    output: true
+
+show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 

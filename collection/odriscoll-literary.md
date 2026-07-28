@@ -13,30 +13,16 @@ primary_discipline: Literary Studies
 url: .nan
 
 ---
-<!-- image -->
-
-## ENGL 483, Section B1: Literary Sound Studies Department of English and Film Studies Winter Term 2025
-
-Instructor: Professor Michael O'Driscoll
-
-Office: HC 3-29
-
-Zoom Room: https://us02web.zoom.us/j/6354152761
-
-Office Hours: In Person Mondays 2:00-3:00pm. Virtual: Thursdays
-2:00-3:00pm.
-
-E-mail: mo@ualberta.ca (Please note: I do not respond during evenings or
-weekends.)
-
-Course Location and Time: MWF 1:00-1:50 HC 2-34
-
-Learning Management System: eClass
-
-Teaching Assistant (AVAnnotate): Samantha Turner turnersam@utexas.edu
-
-Teaching Assistant (Web Anthology): Catalina Torres Benjumea
-torresbe@ualberta.ca
+ENGL 483, Section B1: Literary Sound Studies Department of English and Film Studies Winter Term 2025  
+Instructor: Professor Michael O'Driscoll  
+Office: HC 3-29   
+Zoom Room: https://us02web.zoom.us/j/6354152761   
+Office Hours: In Person Mondays 2:00-3:00pm. Virtual: Thursdays 2:00-3:00pm   
+E-mail: mo@ualberta.ca (Please note: I do not respond during evenings or weekends.)   
+Course Location and Time: MWF 1:00-1:50 HC 2-34    
+Learning Management System: eClass    
+Teaching Assistant (AVAnnotate): Samantha Turner turnersam@utexas.edu    
+Teaching Assistant (Web Anthology): Catalina Torres Benjumea torresbe@ualberta.ca
 
 ## Land Acknowledgement
 
@@ -143,8 +129,6 @@ Please see our eClass site for full details.
 
 Components of Course Grade:
 
-  Component                       Weighting   Date
-  ------------------------------- ----------- -----------------
   Participation                   10%         Ongoing
   Guided Listening Practice       10%         To Be Scheduled
   Soundbite                       20%         February 12
@@ -175,9 +159,7 @@ should include the following elements: 1) background information or
 narrative about the sound event we will experience together; 2) two or
 three pre-listening questions that help to us to attend in ways that
 will shape our listening experience and reflect on that experience; 3)
-the
-
-sounding of the recording or object; 4) a guided discussion following
+the sounding of the recording or object; 4) a guided discussion following
 our listening experience in which the guide directs the conversation and
 responds to questions from other class members. This should be treated
 as an informal presentation. You can work from notes, but please do not
@@ -286,11 +268,8 @@ Arts Faculty Council or delegate.
 ## Grade Scale :
 
   Excellent   A +   4\. 0   96-10 0
-  ----------- ----- ------- ---------
               A     4\. 0   91-95
-
                  A-    3\. 7   86-90
-  -------------- ----- ------- -------
   Good           B +   3\. 3   81-85
                  B     3\. 0   76-80
                  B-    2\. 7   72-75
@@ -333,7 +312,7 @@ All students should consult the website of the Office of Student Conduct
 and Accountability.
 
 Instructors are required to report potential violations of the Student
-Academic Integrity Policy .
+Academic Integrity Policy.
 
 ChatGPT and Similar Chatbots: The goal of most writing assignments you
 will be asked to carry out in the context of Department of English and

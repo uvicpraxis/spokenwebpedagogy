@@ -9,6 +9,10 @@ The following materials include course outlines, assignments, prompts, teaching 
 Note that these materials appear as they were originally written for teaching and learning. We formatted them for the collection but did not edit them.  
 
 <ul>
+     <li>
+      <a href="camlot-antin.html">Antin's Talk Poetry</a>
+      <br />notes by Jason Camlot — Concordia University
+    </li>
     <li>
       <a href="macarthur-speech.html">Art and Science of Performative Speech</a>
       <br />assginment by Marit MacArthur and Augusta Funk — University of California, Davis

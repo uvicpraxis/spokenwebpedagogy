@@ -41,6 +41,10 @@ Note that these materials appear as they were originally written for teaching an
       <a href="wiens-podcast.html">Podcast</a>
       <br />group project by Jason Wiens — University of Calgary
     </li>
+       <li>
+      <a href="camlot-avant-garde.html">Questions for Avant-Garde Noise and Sound</a>
+      <br />notes by Jason Camlot via Douglas Kahn — Concordia University
+    </li>
     <li>
       <a href="wiens-transcription.html">Transcription</a>
       <br />excercise by Jason Wiens — University of Calgary

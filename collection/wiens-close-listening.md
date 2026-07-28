@@ -5,7 +5,7 @@ last_name: Wiens
 first_name: Jason
 email: jlwiens@ucalgary.ca
 institution: 'Calgary, U. of '
-title_of_doc: Close Listening Assignment
+title_of_doc: Close Listening
 file_name: 372.01 Winter 2021 Close Listening Assignment.docx
 original_doc_type: Prompt
 primary_discipline: Literary Studies

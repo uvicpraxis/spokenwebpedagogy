@@ -66,7 +66,6 @@ Note that these materials appear as they were originally written for teaching an
       <br />assignment by Jason Camlot — Concordia University
     </li>
     <li>
-    <li>
       <a href="wiens-transcription.html">Transcription</a>
       <br />excercise by Jason Wiens — University of Calgary
     </li>

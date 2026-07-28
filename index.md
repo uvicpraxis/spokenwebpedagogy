@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-Welcome to SpokenWeb Pedagogy, a [collection](https://uvicpraxis.github.io/spokenwebpedagogy/mdfiles/) of materials for learning and teaching literary sound studies. 
+Welcome to SpokenWeb Pedagogy, a [collection](collection.html) of materials for learning and teaching literary sound studies. 
 
 The SSHRC-funded [SpokenWeb](https://spokenweb.ca/) partnership aims to develop coordinated and collaborative approaches to literary historical study, digital development, and critical and pedagogical engagement with diverse collections of literary sound recordings from across Canada and beyond.
 

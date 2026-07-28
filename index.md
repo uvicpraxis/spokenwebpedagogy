@@ -27,3 +27,43 @@ SpokenWeb director and PI: Jason Camlot (Concordia)
 * Circulate the collection for public use (~ 16 October 2026).
 
 Note: this project is no longer in active development, and we are no longer accepting contributions. Thank you for understanding. 
+
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            <p>a <a href="https://spokenweb.ca/">SpokenWeb</a> project</p>
+            <!--
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
+            </li>
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%} -->
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>project status: proof of concept<br>
+        last updated: 28 July 2026</p>
+        <!--p>{{- site.description | escape -}}</p-->
+      </div>
+    </div>
+
+  </div>
+
+</footer>

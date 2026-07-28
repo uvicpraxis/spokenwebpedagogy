@@ -11,6 +11,6 @@ Note that these materials appear as they were originally written for teaching an
 <ul>
     <li>
       <a href="wiens-elocution.html">Interpretative E-Locution</a>
-      <br /><small>By Jason Wiens — Calgary, U. of </small>
+      <br />by Jason Wiens — University of Calgary
     </li>
 </ul>

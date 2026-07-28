@@ -23,11 +23,11 @@ Note that these materials appear as they were originally written for teaching an
     </li>
      <li>
       <a href="wiens-literary-audio.html">Literary Audio Recording</a>
-      <br />project by Jason Wiens — University of Calgary
+      <br />group project by Jason Wiens — University of Calgary
     </li>
      <li>
       <a href="wiens-podcast.html">Podcast</a>
-      <br />group assignment by Jason Wiens — University of Calgary
+      <br />group project by Jason Wiens — University of Calgary
     </li>
     <li>
       <a href="wiens-transcription.html">Transcription</a>

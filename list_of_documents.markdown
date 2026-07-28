@@ -25,6 +25,10 @@ Note that these materials appear as they were originally written for teaching an
       <a href="wiens-close-listening.html">Close Listening</a>
       <br />assginment by Jason Wiens — University of Calgary
     </li>
+     <li>
+      <a href="camlot-journal.html">Critical Listening Journal</a>
+      <br />notes by Jason Camlot — Concordia University
+    </li>
       <li>
       <a href="wiens-deformance.html">E-Locution / Deformance</a>
       <br />assginment by Jason Wiens — University of Calgary

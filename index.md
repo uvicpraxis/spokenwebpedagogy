@@ -13,7 +13,7 @@ All files in the collection were converted into [Markdown](https://daringfirebal
 
 The script also generates associated [YAML](https://yaml.org/) metadata files from a metadata spreadsheet (XLSX). YAML for each file includes metadata for the title, layout, filename, permalink, document type, discipline, affiliated project URL, and author's name(s), institution(s), and email address(es). 
 
-The collection is designed to be published to a [Jekyll](https://github.com/jekyll)-based web instance. It uses the [Minima](https://github.com/jekyll/minima) theme. 
+The collection is designed to be published using [Jekyll](https://github.com/jekyll) with the [Minima](https://github.com/jekyll/minima) theme. 
 
 Project lead: Jentery Sayers (UVic)    
 Project developer: Callum Carroll-Ireton (UVic)    

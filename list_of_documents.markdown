@@ -13,6 +13,10 @@ Note that these materials appear as they were originally written for teaching an
       <a href="wiens-close-listening.html">Close Listening</a>
       <br />assginment by Jason Wiens — University of Calgary
     </li>
+      <li>
+      <a href="wiens-deformance.html">E-Locution / Deformance</a>
+      <br />assginment by Jason Wiens — University of Calgary
+    </li>
     <li>
       <a href="wiens-elocution.html">Interpretative E-Locution</a>
       <br />assignment by Jason Wiens — University of Calgary

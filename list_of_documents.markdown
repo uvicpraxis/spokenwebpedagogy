@@ -38,7 +38,7 @@ Note that these materials appear as they were originally written for teaching an
       <br />assginment by Jason Wiens — University of Calgary
     </li>
      <li>
-      <a href="odriscoll-listening.html">Ethical Listening/a>
+      <a href="odriscoll-listening.html">Ethical Listening</a>
       <br />syllabus by Michael O’Driscoll — University of Alberta
     </li>
      <li>

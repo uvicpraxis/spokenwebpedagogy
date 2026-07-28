@@ -121,18 +121,18 @@ Here's the schedule for the term. I've designed it to scaffold the audio portfol
 
 I will use a Brightspace announcement to notify you at least two weeks in advance of any changes. Please note that all discussion forums are in Brightspace, and all assignments, including the portfolio and final project, should be submitted via Brightspace. It is, alas, LMS all the way down . . . 
 
-## Step 0 (Sept. 15): Scan All the Steps
+### Step 0 (Sept. 15): Scan All the Steps
 
 Before our first Zoom meeting on September 15th, please take a moment to scan the course overview and steps (0-13) outlined in this schedule. I created a discussion forum for questions and concerns. Please note that, in Brightspace, the seminar policies are provided separately in PDF. Thank you!  
 
-## Step 1 (Sept. 15): Complete a Technology Survey
+### Step 1 (Sept. 15): Complete a Technology Survey
 
 This week's step should consume no more than an hour of your time. Please:
 
 1. Introduce yourself in the forum and take 5 to 10 minutes to respond to others. 
 2. Dedicate 15 minutes to completing the technology survey. It contains only four questions. 
 
-## Step 2 (Sept. 22): Pick a Podcast and Press Record
+### Step 2 (Sept. 22): Pick a Podcast and Press Record
 
 This week's step should consume no more than 6 hours of your time. Please:
 
@@ -141,7 +141,7 @@ This week's step should consume no more than 6 hours of your time. Please:
 3. Dedicate about 3 hours to reading the attached collection of brief introductions to listening. They represent a range of approaches across sound studies. Authors include Roland Barthes, Jody Berland, Michael Bull and Les Back, Michel Chion, Kodwo Eshun, Douglas Kahn, Michele Hilmes, Francisco López, Mara Mills, Pauline Oliveros, Tom Rice, Dylan Robinson, Tara Rodgers, Jonathan Sterne, and Ola Stockfelt. Worry less about reading all of them and more about identifying two or three that especially stick with you. 
 4. Spend 30 minutes to an hour contributing to the "Ways of Listening" discussion forum. 
 
-## Step 3 (Sept. 29): Record Your First Take
+### Step 3 (Sept. 29): Record Your First Take
 
 This week's step should consume no more than 6 hours of your time. Please: 
 
@@ -153,7 +153,7 @@ This week's step should consume no more than 6 hours of your time. Please:
 
 Struggling with audio? In mid-September, I'll hold a separate Zoom session on working with Audacity and the like. 
 
-## Step 4 (Oct. 6th): Describe Your Podcast
+### Step 4 (Oct. 6th): Describe Your Podcast
 
 This week's step should consume no more than 6 hours of your time. Please: 
 
@@ -161,7 +161,7 @@ This week's step should consume no more than 6 hours of your time. Please:
 2. Contribute once more to the "Audiobooks" discussion forum. Take 30 minutes to an hour. Don't forget to bring that positive force :) 
 3. Take about an hour to 90 minutes to draft a description (250 words) of a podcast you might produce based on material from this seminar, including your recording from last week. You might want to scan the entire seminar schedule (steps 0 - 13) to see if there’s something on the docket that may especially appeal to your own research: audiobooks, recording readings, radio plays, podcasts, voice-over narration, or games, for instance. Your podcast description should include a title, theme, interests, topic(s) you’ll address, your intended audience, and, if you wish, a few words about your style or approach. You might also want to compare it with other podcasts, especially similar ones. Just get ideas circulating for now. Don't worry much about the particulars. You'll continue to revise this description and your framework for the podcast throughout the term. I'm just asking to start now rather than later with the rough stuff. That way, you can get feedback from us as you develop your ideas and audio style. 
 
-## Step 5 (Oct. 13): Record Some Dialogue
+### Step 5 (Oct. 13): Record Some Dialogue
 
 This week's step should consume no more than 5 hours of your time. Please: 
 
@@ -172,7 +172,7 @@ This week's step should consume no more than 5 hours of your time. Please:
 
 *Specs for your audio file* (MP3 may be best): 10-15 minutes of you talking with someone else, plus a one- or two-sentence description of the recording and a list of works mentioned or sampled in it
 
-## Step 6 (Oct. 20th): Revise and Edit
+### Step 6 (Oct. 20th): Revise and Edit
 
 This week's step should consume no more than 4 hours of your time. Please: 
 
@@ -180,7 +180,7 @@ This week's step should consume no more than 4 hours of your time. Please:
 2. Spend 30 minutes to an hour contributing to the "Radio Plays" discussion forum.
 3. Now that some time has passed, spend an hour or 2 revising the description for your proposed podcast and edit your first two recordings where / if necessary. Submit all three (description, your first take, and your recorded dialogue) for assessment. 
 
-## Step 7 (Oct. 27):  Record an Analysis of Voice or Dialogue
+### Step 7 (Oct. 27):  Record an Analysis of Voice or Dialogue
 
 This week's step should consume no more than 4 hours of your time. Please: 
 
@@ -190,7 +190,7 @@ This week's step should consume no more than 4 hours of your time. Please:
 
 *Specs for your audio file* (MP3 may be best): 5-10 minutes of you analyzing audio, plus a one- or two-sentence description of the recording and a list of works mentioned or sampled in it
 
-## Step 8 (Nov. 3): Let's Bib
+### Step 8 (Nov. 3): Let's Bib
 
 This week's step should consume no more than 4 hours of your time. Please: 
 
@@ -198,11 +198,11 @@ This week's step should consume no more than 4 hours of your time. Please:
 2. Recall that podcast you selected back in September? Consider spending an hour listening to an episode or two of it. Perhaps it'll provide more inspiration for your podcast and final project. 
 3. During our Zoom meeting on November 3rd, we'll talk about voice-over narration in movies. You don't need to prep for that session unless you wish. I'm pointing you to two introductory videos in case you're curious about it. 
 
-## Step 9 (Nov. 10): Take a Break
+### Step 9 (Nov. 10): Take a Break
 
 Step away from the seminar, the discussion forums, and your audio portfolio for a bit. There's nothing due this week. 
 
-## Step 10 (Nov. 17th): Record an Analysis of a Sound Object or Soundscape
+### Step 10 (Nov. 17th): Record an Analysis of a Sound Object or Soundscape
 
 This week's step should consume no more than 5 hours of your time. Please:
 
@@ -212,7 +212,7 @@ This week's step should consume no more than 5 hours of your time. Please:
 
 *Specs for your audio file* (MP3 may be best): 5-10 minutes of you analyzing audio (a sound object or soundscape), plus a one- or two-sentence description of the recording and a list of works mentioned or sampled in it 
 
-## Step 11 (Nov. 24): Revise, Edit, and Annotate
+### Step 11 (Nov. 24): Revise, Edit, and Annotate
 
 This week's step should consume no more than 6 hours of your time. Please:
 
@@ -220,7 +220,7 @@ This week's step should consume no more than 6 hours of your time. Please:
 2. Dedicate roughly 2 hours to annotating two more entries in our collaborative bib. Please leave your name in brackets after your annotations.
 3. Spend 2 to 3 hours watching or playing either Giant Sparrow's *What Remains of Edith Finch* (2017) or Lucas Pope's *Return of the Obra Dinn* (2018). Take notes on the sound design as you go. If you're watching rather than playing, then consider no-commentary gameplay. I've created a discussion forum for sound in games; however, it's not required. (We may just use it to share notes during this week's Zoom meeting, when we'll talk more about audio and fiction in games.) 
 
-## Step 12 (Dec. 1): Record Part of Your Episode and Describe It
+### Step 12 (Dec. 1): Record Part of Your Episode and Describe It
 
 This week's step should consume no more than 6 hours of your time. Please: 
 
@@ -232,7 +232,7 @@ This week's step should consume no more than 6 hours of your time. Please:
 
 When you're done, I'm also asking you to submit all of the above, together with your recorded analyses of voice / dialogue and a sound object / soundscape to the "Portfolio 2" assignment. Apologies for the redundancies, but the distinct submission and discussion features of Brightspace make this sort of duplication necessary. The platform doesn't allow us to simultaneously share material with each other and submit it for assessment.  
 
-## Step 13 (Dec. 15): Record, Edit, and Polish Your Episode
+### Step 13 (Dec. 15): Record, Edit, and Polish Your Episode
 
 It's time to submit your final project for the seminar. Please:
 

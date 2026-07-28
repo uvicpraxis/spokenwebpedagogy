@@ -25,6 +25,10 @@ Note that these materials appear as they were originally written for teaching an
       <a href="wiens-deformance.html">E-Locution / Deformance</a>
       <br />assginment by Jason Wiens — University of Calgary
     </li>
+     <li>
+      <a href="camlot-timbre.html">First Thoughts on Timbre</a>
+      <br />notes by Jason Camlot — Concordia University
+    </li>
     <li>
       <a href="wiens-elocution.html">Interpretative E-Locution</a>
       <br />assignment by Jason Wiens — University of Calgary

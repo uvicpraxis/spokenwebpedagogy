@@ -70,6 +70,10 @@ Note that these materials appear as they were originally written for teaching an
       <br />notes by Jason Camlot via Douglas Kahn — Concordia University
     </li>
        <li>
+      <a href="sayers-readers.html">Readers Are Listening</a>
+      <br />syllabus by Jentery Sayers — University of Victoria
+    </li>
+       <li>
       <a href="camlot-podcast.html">Shortform Podcast</a>
       <br />assignment by Jason Camlot — Concordia University
     </li>

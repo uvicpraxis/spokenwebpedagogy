@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Interpretative E-Locution
-permalink: /output_documents/307_Winter_2018_Elocution_Assignment.html
 last_name: Wiens
 first_name: Jason
 email: jlwiens@ucalgary.ca
 institution: 'Calgary, U. of '
-title_of_doc: Intepretative E-Locution
+title_of_doc: Interpretative E-Locution
 file_name: 307 Winter 2018 Elocution Assignment.docx
 original_doc_type: Prompt
 primary_discipline: Literary Studies

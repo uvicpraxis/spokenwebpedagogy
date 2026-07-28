@@ -18,7 +18,7 @@ The collection is designed to be published using [Jekyll](https://github.com/jek
 Project lead: Jentery Sayers (UVic)    
 Project developer: Callum Carroll-Ireton (UVic)    
 Project communications: Joel Wheeler (UVic)  
-Project host and maintenance: Praxis Studio (UVic)   
+Project host and maintenance: The Praxis Studio for Comparative Media Studies (UVic)   
 SpokenWeb director and PI: Jason Camlot (Concordia)   
 
 ## Roadmap (as of 28 July 2026) 

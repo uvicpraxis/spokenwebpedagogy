@@ -13,7 +13,8 @@ primary_discipline: Literary Studies
 url: .nan
 
 ---
-Department of English and Film Studies ENGL 569 A1: Ethical Listening   
+ENGL 569 A1: Ethical Listening    
+Department of English and Film Studies    
 Fall Term 2022   
 Instructor: Michael O'Driscoll    
 Contact: mo@ualberta.ca    

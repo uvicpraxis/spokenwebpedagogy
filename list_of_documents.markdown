@@ -10,7 +10,11 @@ Note that these materials appear as they were originally written for teaching an
 
 <ul>
     <li>
-      <a href="wiens-elocution.html">Interpretative E-Locution</a>
+      <a href="wiens-close-listening.html">Close Listening</a> (assignment)
+      <br />by Jason Wiens — University of Calgary
+    </li>
+    <li>
+      <a href="wiens-elocution.html">Interpretative E-Locution</a> (assignment)
       <br />by Jason Wiens — University of Calgary
     </li>
 </ul>

@@ -37,6 +37,10 @@ Note that these materials appear as they were originally written for teaching an
       <a href="wiens-elocution.html">Interpretative E-Locution</a>
       <br />assignment by Jason Wiens — University of Calgary
     </li>
+      <li>
+      <a href="camlot-listening.html">Listening as Cultural Technique</a>
+      <br />syllabus by Jason Camlot — Concordia University
+    </li>
      <li>
       <a href="wiens-literary-audio.html">Literary Audio Recording</a>
       <br />group project by Jason Wiens — University of Calgary

@@ -181,7 +181,7 @@ David and Matt Sakakeeny, Ed., Keywords in Sound. Duke, 2015.
 
 ## Assignments
 
-## Participation (10%)
+### Participation (10%)
 
 Participation is based on attendance, evident preparation for the
 seminar, timely completion of assigned tasks, and contributions to
@@ -189,7 +189,7 @@ seminar discussions. Come to our seminar prepared by having completed
 the required readings and listenings. In our seminar space you are
 expected to be attentive, generous, and respectful.
 
-## Listening Practice (20%)
+### Listening Practice (20%)
 
 A 'listening practice' is a guided, shared encounter in which the guide
 leads the seminar in attending to a particular sound event that they
@@ -211,7 +211,7 @@ experience to other issues, readings, and listenings we have shared in
 the seminar. Please sign up for your Listening Practice delivery date on
 the google doc found here.
 
-## Field Recording & Sharing (20%)
+### Field Recording & Sharing (20%)
 
 This assignment invites you use your cell phone or other digital
 recording device to make a short recording (no longer than 5 minutes)
@@ -234,7 +234,7 @@ pre-scheduled-I'll open each seminar meeting by asking if anyone has a
 field recording to share that day. (Note: if you do not have access to a
 recording device, I can provide one.)
 
-## Sound Bites (20%)
+### Sound Bites (20%)
 
 In advance of completing your term paper, you will be required to
 produce a short recording of no more than 4 minutes duration. The
@@ -259,7 +259,7 @@ forms of listening practice, and early users often remark that learning
 these skills can impact their own sense of attunement to the sound
 objects under consideration.
 
-## Term Paper
+### Term Paper
 
 The term paper will be due just over one week following the last day of
 our seminar, or Friday, December 16 th . The paper should be the length
@@ -278,7 +278,7 @@ your ideas individually at any point in the term. Pro-tip: keep your eye
 out for any suitable, upcoming conferences and consider submitting a
 proposal for your paper to one of them!
 
-## Grading :
+## Grading:
 
   Excellent      A+   4.0   96-100
                  A    4     91-95
@@ -377,7 +377,7 @@ The University of Alberta is committed to creating work and learning
 communities that inspire and enable all people to reach their full
 potential. Accessibility Resources promotes an accessible, inclusive,
 and universally designed environment. For general information to
-register for services visit the Academic Accommodations webpage.
+register for services, visit the Academic Accommodations webpage.
 
 ## The Academic Success Centre: (1-80 SUB)
 

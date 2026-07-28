@@ -57,6 +57,10 @@ Note that these materials appear as they were originally written for teaching an
       <a href="wiens-literary-audio.html">Literary Audio Recording</a>
       <br />group project by Jason Wiens — University of Calgary
     </li>
+        <li>
+      <a href="odriscoll-literary.html">Literary Sound Studies</a>
+      <br />syllabus by Michael O’Driscoll — University of Alberta
+    </li>
      <li>
       <a href="wiens-podcast.html">Podcast</a>
       <br />group project by Jason Wiens — University of Calgary

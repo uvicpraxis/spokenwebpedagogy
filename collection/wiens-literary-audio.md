@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Literary Audio Recording Project
+title: Literary Audio Recording
 last_name: Wiens
 first_name: Jason
 email: jlwiens@ucalgary.ca

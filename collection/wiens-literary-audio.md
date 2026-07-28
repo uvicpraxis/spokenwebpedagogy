@@ -5,7 +5,7 @@ last_name: Wiens
 first_name: Jason
 email: jlwiens@ucalgary.ca
 institution: 'Calgary, U. of '
-title_of_doc: Literary Audio Recording Project
+title_of_doc: Literary Audio Recording
 file_name: 509.01 Winter 2019 Recording project.docx
 original_doc_type: Project
 primary_discipline: Literary Studies

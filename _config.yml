@@ -1,0 +1,23 @@
+title: SpokenWeb Pedagogy
+description: 
+  a literary sound studies collection
+baseurl: "/spokenwebpedagogy"
+url: "https://uvicpraxis.github.io"
+header_pages:
+  - list_of_documents.markdown
+collections:
+  output_documents:
+    output: true
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+
+minima:
+  date_format: "%b %-d, %Y"
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag

@@ -13,22 +13,13 @@ primary_discipline: Literary Studies
 url: .nan
 
 ---
-## Department of English and Film Studies ENGL 569 A1: Ethical Listening
-
-## Fall Term 2022
-
-Instructor: Michael O'Driscoll
-
-Contact: mo@ualberta.ca
-
-Contact: mo@ualberta.ca
-
-Office Hours: Zoom: Wednesday 10:00-11:00am. In Person: Thursdays
-1:00-2:00pm.
-
-Office: HC 3-47 / Zoom Room: https://us02web.zoom.us/j/6354152761
-
-Class Schedule: Tuesdays 10:00am-1:00pm; HC 2-17
+Department of English and Film Studies ENGL 569 A1: Ethical Listening   
+Fall Term 2022   
+Instructor: Michael O'Driscoll    
+Contact: mo@ualberta.ca    
+Office Hours: Zoom: Wednesday 10:00-11:00am. In Person: Thursdays 1:00-2:00pm   
+Office: HC 3-47 / Zoom Room: https://us02web.zoom.us/j/6354152761   
+Class Schedule: Tuesdays 10:00am-1:00pm; HC 2-17  
 
 ## Territorial Acknowledgement:
 

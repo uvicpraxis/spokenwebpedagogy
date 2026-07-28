@@ -49,7 +49,7 @@ Darcy, from Jane Austen's *Pride and Prejudice*
 
 In this scene, Jane Austen satirically comments on the "accomplishments"
 women were urged to acquire. As Mary Wollstonecraft had noted two
-decades prior, in *The Vindication of the Rights of Women, *this
+decades prior, in *The Vindication of the Rights of Women*, this
 "smattering of accomplishments" was designed to make women attractive to
 men, to enable them to "rise in the world" in the only way they could,
 through marriage. Darcy attempts in this conversation to elevate what is

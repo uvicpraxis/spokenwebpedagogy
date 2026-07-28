@@ -7,4 +7,5 @@ The SSHRC-funded SpokenWeb partnership aims to develop coordinated and collabora
 Project developer: Callum Carroll-Ireton (UVic)   
 Project editor: Jentery Sayers (UVic)   
 Project communications: Joel Wheeler (UVic)   
+Project host and maintenance: Praxis Studio (UVic) 
 SpokenWeb director and PI: Jason Camlot (Concordia)   

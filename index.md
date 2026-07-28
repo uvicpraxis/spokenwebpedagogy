@@ -26,4 +26,4 @@ SpokenWeb director and PI: Jason Camlot (Concordia)
 * Copy-edit the collection (~ 16 October 2026). 
 * Circulate the collection for public use (~ 16 October 2026).
 
-Note: this project is no longer in active development, and we are no longer accepting contributions. Thank you for understanding. 
+This project is no longer in active development, and we are no longer accepting contributions. Thank you for understanding. 

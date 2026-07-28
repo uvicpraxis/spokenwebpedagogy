@@ -26,6 +26,10 @@ Note that these materials appear as they were originally written for teaching an
       <br />assginment by Jason Wiens — University of Calgary
     </li>
      <li>
+      <a href="levy-austen.html">Creative Assignment (Jane Austen)</a>
+      <br />by Michelle Levy — Simon Fraser University
+    </li>
+     <li>
       <a href="camlot-journal.html">Critical Listening Journal</a>
       <br />notes by Jason Camlot — Concordia University
     </li>

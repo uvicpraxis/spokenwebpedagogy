@@ -10,6 +10,11 @@ Note that these materials appear as they were originally written for teaching an
 
 <ul>
     <li>
+      <a href="macarthur-speech.html">Art and Science of Performative Speech</a>
+      <br />assginment by Marit MacArthur and Augusta Funk — University of California, Davis
+    </li>
+      <li>
+    <li>
       <a href="wiens-close-listening.html">Close Listening</a>
       <br />assginment by Jason Wiens — University of Calgary
     </li>

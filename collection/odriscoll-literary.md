@@ -13,7 +13,9 @@ primary_discipline: Literary Studies
 url: .nan
 
 ---
-ENGL 483, Section B1: Literary Sound Studies Department of English and Film Studies Winter Term 2025  
+ENGL 483, Section B1: Literary Sound Studies   
+Department of English and Film Studies    
+Winter Term 2025    
 Instructor: Professor Michael O'Driscoll  
 Office: HC 3-29   
 Zoom Room: https://us02web.zoom.us/j/6354152761   

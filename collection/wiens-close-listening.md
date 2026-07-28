@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Close Listening Assignment
+title: Close Listening
 last_name: Wiens
 first_name: Jason
 email: jlwiens@ucalgary.ca

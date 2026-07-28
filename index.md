@@ -23,7 +23,7 @@ SpokenWeb director and PI: Jason Camlot (Concordia)
 
 ## Roadmap (as of 28 July 2026) 
 
-* Copy-edit the collection (~ 1 October 2026). 
+* Copy-edit the collection (~ 2 October 2026). 
 * Circulate the collection for public use (~ 16 October 2026).
 
 This project is no longer in active development, and we are no longer accepting contributions. Thank you for understanding. 

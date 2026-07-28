@@ -4,7 +4,7 @@ description:
 baseurl: "/spokenwebpedagogy"
 url: "https://uvicpraxis.github.io"
 header_pages:
-  - collection.html
+  - collection.md
 
 # Minima date format
 
